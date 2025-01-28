@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMVC.Domain", "MyFirstMVC.Domain\MyFirstMVC.Domain.csproj", "{F2D8C0A6-728C-4F1A-A2DF-326CE73DEAD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstMVC.Razor", "MyFirstMVC.Razor\MyFirstMVC.Razor.csproj", "{F1B8B1D4-1274-4442-BE2F-8C1C88130C2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2D8C0A6-728C-4F1A-A2DF-326CE73DEAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D8C0A6-728C-4F1A-A2DF-326CE73DEAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D8C0A6-728C-4F1A-A2DF-326CE73DEAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B8B1D4-1274-4442-BE2F-8C1C88130C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B8B1D4-1274-4442-BE2F-8C1C88130C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B8B1D4-1274-4442-BE2F-8C1C88130C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B8B1D4-1274-4442-BE2F-8C1C88130C2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
